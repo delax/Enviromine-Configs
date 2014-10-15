@@ -4,7 +4,7 @@ Enviromine-Configs
 Premade Configuration files for [Enviromine 1.7.10](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048-)
 
 
-Currently Contains configs for following mods:
+Currently contains configs for following mods:
 *  [Bibliocraft](http://www.bibliocraftmod.com/)
 *  [Biomes O'Plenty](http://www.minecraftforum.net/topic/1495041-)
 *  [Blood Magic](http://www.minecraftforum.net/topic/1899223-)
