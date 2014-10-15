@@ -5,5 +5,5 @@ Premade Configuration files for [Enviromine](http://www.minecraftforum.net/forum
 
 ## To Use
 
-1.  Copy "config" folder's contents into your Minecraft config folder
+1.  Copy "configs" folder's contents into your Minecraft "configs" folder
 2.  Play Minecraft
