@@ -1,8 +1,7 @@
 Enviromine-Configs
 ==================
 
-Premade Configuration files for [Enviromine 1.7.10](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048-)
-
+Premade Configuration files for [Enviromine 1.7.10](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
 
 Currently contains configs for following mods:
 *  [Bibliocraft](http://www.bibliocraftmod.com/)
@@ -25,10 +24,19 @@ Currently contains configs for following mods:
 *  [Translocators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956)
 
 Other included configs:
-*  NerfGlass - A config to make vanilla glass weaker, so things like TE Hardened Glass, etc make more sense/have a point
+*  NerfGlass - A config to make vanilla glass weaker (loose vs average), so things like TE Hardened Glass, etc make more sense/have a point
 *  Vanilla - Any vanilla blocks/items/armor apparently missed by the Enviromine generated default
 
-## To Use
+## To Use All
 
-1.  Copy "configs" folder's contents into your Minecraft "configs" folder
-2.  Play Minecraft
+1.  Download source, unzip it
+2.  Copy `configs` folder's contents into your Minecraft `configs` folder
+3.  Play Minecraft, any unused configs will be ignored
+
+## To Use Some
+
+1. Download source, unzip it
+2. Copy `StabilityTypes.cfg` from `configs\enviromine` to your Minecraft's `configs\enviromine` folder
+3. Edit ypur Minecraft's `configs\enviromine\Enviromine.cfg` file to have `B:"Generate Armor Configs"=false` instead of `true` (this is the only change the included `Enviromine.cfg` file has)
+4. Copy any configs you desire from `configs\enviromine\CustomProperties` folder to your Minecraft's `configs\enviromine\CustomProperties` folder
+5. Play Minecraft, any unused configs will be ignored
