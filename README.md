@@ -37,6 +37,6 @@ Other included configs:
 
 1. Download source, unzip it
 2. Copy `StabilityTypes.cfg` from `configs\enviromine` to your Minecraft's `configs\enviromine` folder
-3. Edit ypur Minecraft's `configs\enviromine\Enviromine.cfg` file to have `B:"Generate Armor Configs"=false` instead of `true` (this is the only change the included `Enviromine.cfg` file has)
+3. Edit your Minecraft's `configs\enviromine\Enviromine.cfg` file to have `B:"Generate Armor Configs"=false` instead of `true` (this is the only change the included `Enviromine.cfg` file has)
 4. Copy any configs you desire from `configs\enviromine\CustomProperties` folder to your Minecraft's `configs\enviromine\CustomProperties` folder
 5. Play Minecraft, any unused configs will be ignored
