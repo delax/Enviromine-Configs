@@ -4,6 +4,7 @@ Enviromine-Configs
 Premade Configuration files for [Enviromine 1.7.10](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
 
 Currently contains configs for following mods:
+*  [Applied Energistics 2](http://ae2.ae-mod.info/)
 *  [Bibliocraft](http://www.bibliocraftmod.com/)
 *  [Biomes O'Plenty](http://www.minecraftforum.net/topic/1495041)
 *  [Blood Magic](http://www.minecraftforum.net/topic/1899223)
@@ -13,6 +14,7 @@ Currently contains configs for following mods:
 *  [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968)
 *  [Railcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277652)
 *  [Special Mobs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288315)
+*  [Steve's Carts 2](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277433-)
 *  [Thaumcraft](http://www.minecraftforum.net/topic/2011841)
   *  [Forbidden Magic](http://www.minecraftforum.net/topic/2305054)
   *  [Thaumic Tinkerer](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299)
