@@ -11,6 +11,7 @@ Currently contains configs for following mods:
 *  [Carpenter's Blocks](http://www.carpentersblocks.com/)
 *  [Enviromine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
 *  [Hardcore Ender Expansion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889)
+*  [Mystcraft](http://xcompwiz.com/)
 *  [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968)
 *  [Railcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277652)
 *  [Special Mobs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288315)
