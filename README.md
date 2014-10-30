@@ -1,7 +1,7 @@
 Enviromine-Configs
 ==================
 
-Premade Configuration files for [Enviromine 1.7.10](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
+Premade Configuration files for [Enviromine 1.2.28](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
 
 Currently contains configs for following mods:
 *  [Applied Energistics 2](http://ae2.ae-mod.info/)
