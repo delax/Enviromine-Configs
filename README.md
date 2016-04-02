@@ -1,34 +1,17 @@
 Enviromine-Configs
 ==================
 
-Premade Configuration files for [Enviromine 1.2.28](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
+Premade Configuration files for [Enviromine 1.3](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
 
 Currently contains configs for following mods:
-*  [Applied Energistics 2](http://ae2.ae-mod.info/)
-*  [Bibliocraft](http://www.bibliocraftmod.com/)
-*  [Biomes O'Plenty](http://www.minecraftforum.net/topic/1495041)
-*  [Blood Magic](http://www.minecraftforum.net/topic/1899223)
-*  [Carpenter's Blocks](http://www.carpentersblocks.com/)
-*  [Enviromine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293048)
-*  [Hardcore Ender Expansion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889)
-*  [Mystcraft](http://xcompwiz.com/)
-*  [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968)
-*  [Railcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277652)
-*  [Special Mobs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288315)
-*  [Steve's Carts 2](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277433-)
-*  [Thaumcraft](http://www.minecraftforum.net/topic/2011841)
-  *  [Forbidden Magic](http://www.minecraftforum.net/topic/2305054)
-  *  [Thaumic Tinkerer](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299)
-*  [Thermal Foundation](http://teamcofh.com/)
-*  [Thermal Expansion](http://teamcofh.com/)
-*  [Tinkers' Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638)
-  *  [ExtraTiC](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212)
-  *  [Iguana Tweaks for Tinkers' Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855)
-*  [Translocators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956)
-
-Other included configs:
-*  NerfGlass - A config to make vanilla glass weaker (loose vs average), so things like TE Hardened Glass, etc make more sense/have a point
-*  Vanilla - Any vanilla blocks/items/armor apparently missed by the Enviromine generated default
+*  [Biomes O' Plenty] (http://minecraft.curseforge.com/projects/biomes-o-plenty)
+*  [Botania] (http://botaniamod.net/)
+*  [Carpenter's Blocks] (http://www.carpentersblocks.com/)
+*  [Chisel] (http://minecraft.curseforge.com/projects/chisel)
+*  [Harder Ores] (http://minecraft.curseforge.com/projects/harder-ores)
+*  [Natura] (http://minecraft.curseforge.com/projects/natura)
+*  [Railcraft] (http://www.railcraft.info/)
+*  [Realistic Torches] (http://minecraft.curseforge.com/projects/realistic-torches)
 
 ## To Use All
 
@@ -39,7 +22,10 @@ Other included configs:
 ## To Use Some
 
 1. Download source, unzip it
-2. Copy `StabilityTypes.cfg` from `configs\enviromine` to your Minecraft's `configs\enviromine` folder
-3. Edit your Minecraft's `configs\enviromine\Enviromine.cfg` file to have `B:"Generate Armor Configs"=false` instead of `true` (this is the only change the included `Enviromine.cfg` file has)
-4. Copy any configs you desire from `configs\enviromine\CustomProperties` folder to your Minecraft's `configs\enviromine\CustomProperties` folder
-5. Play Minecraft, any unused configs will be ignored
+2. Copy `StabilityTypes.cfg` from `configs\enviromine\profiles\default` to your Minecraft's `configs\enviromine\profiles\default` folder
+3. Copy any configs you desire from `configs\enviromine\profiles\default\CustomProperties` folder to your Minecraft's `configs\enviromine\profiles\default\CustomProperties` folder
+4. Play Minecraft, any unused configs will be ignored
+
+## Extra Notes:
+
+Some configs have Biomes in them, these use the mod's default Biome IDs. If you change the Biome ID, **make sure to change the ID in the Enviromine config**.
